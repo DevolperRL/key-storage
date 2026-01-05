@@ -1,9 +1,3 @@
 {
-  "id": "04156073-b37a-42bf-9c65-bacf9b56d830",
-  "private_key": "7cad0969-dd7f-4103-a302-71c3646c2746dbab2a0f-445f-4d10-8db7-b373a7e15f8a",
   "public_key": "42bad252cece499ee5f09306118f76018570a90578d6409d83da5704b2f19237",
-  "timestamp": "2026-01-05 01:15:53",
-  "algorithm": "SHA-256",
-  "key_size": "512 bits",
-  "generator": "C++ Key Generator"
 }
