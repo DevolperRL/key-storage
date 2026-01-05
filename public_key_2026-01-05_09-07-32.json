@@ -1,9 +1,0 @@
-{
-  "id": "e80b452c-481e-4e44-ae1a-9a75bb3062ec",
-  "public_key": "a4127e74846ed813dc201cf424322d3e5072f2c6732d2c1578edb36ae9af3d69",
-  "timestamp": "2026-01-05 09:07:32",
-  "algorithm": "SHA-256",
-  "purpose": "authentication",
-  "key_size": "256 bits",
-  "note": "Private key stored locally only"
-}
