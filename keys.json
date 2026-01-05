@@ -1,7 +1,7 @@
 {
-  "id": "dba18877-bc0b-47b1-b3b6-b3fdbfe563dd",
-  "public_key": "f8a0f554d3d1c1ecf1e2b01e627ada44b1a44cd8e1ad5bc8d5e6046f8e7ee1a2",
-  "timestamp": "2026-01-05 09:15:15",
+  "id": "9236c58e-2174-40ed-9c6d-e7aaadc66dd0",
+  "public_key": "e5fbe04bd399b52912d94b37452ae6e98aecc20e8e64593a26169456ff0f379d",
+  "timestamp": "2026-01-05 09:15:32",
   "algorithm": "SHA-256",
   "purpose": "authentication"
 }
