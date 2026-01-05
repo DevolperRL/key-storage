@@ -1,3 +1,9 @@
 {
-  "public_key": "42bad252cece499ee5f09306118f76018570a90578d6409d83da5704b2f19237",
+  "id": "6c77c404-6f8b-43f8-b08c-ea6171754497",
+  "public_key": "e5c73e3e8b8fb98be2cd0795b306bcefdaaf87338d207eb6962c657e65209285",
+  "timestamp": "2026-01-05 09:08:43",
+  "algorithm": "SHA-256",
+  "purpose": "authentication",
+  "key_size": "256 bits",
+  "note": "Private key stored locally only"
 }
