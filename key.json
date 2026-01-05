@@ -5,3 +5,9 @@
   "algorithm": "SHA-256",
   "purpose": "authentication"
 }
+{
+    "id": "4503e0a2-f4f7-48fb-bb1c-8ee96392f5bc",
+    "public_key": "0023997b473c88a44a9ea6e14f536ee50662501f1480f86f99c360d7b40f6274",
+    "timestamp": "2026-01-05 09:23:06",
+    "algorithm": "SHA-256"
+  }
