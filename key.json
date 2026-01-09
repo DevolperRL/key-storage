@@ -1,1 +1,9 @@
-
+[
+{
+    "license_id": "BLZ-J4X5-JMCB-Q7SZ",
+    "public_key": "2bef110bb769f676d43c64791cf3773b844d67bb13cd783d86f89099d90d4b0e",
+    "signature": "304402200ca37be13a09e26f66a828c8100c845a6b467de64a37c79dc69fa973d5a65274022010fcf02e324eb3fb6c59e7ba4253e8eab99ced95dcd0c4948cb24f36dadc23d6",
+    "algorithm": "ECC-secp256k1",
+    "timestamp": "2026-01-10 00:12:32"
+  }
+]
