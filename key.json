@@ -1,1 +1,10 @@
-
+[
+{
+    "license_id": "BLZ-25KK-TQA8-7S5E",
+    "public_key": "39a640a760e4cd6b6f4b4763b3f649ca7456ada24437c267c8e48780da13a58f",
+    "signature": "8953b38bdc61910ca88568abe0dd1a071231abc21a453525e8699df82b6948ab",
+    "algorithm": "SHA-256-Crypt",
+    "active": true,
+    "created": "2026-01-09 23:20:34"
+  }
+]
