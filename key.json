@@ -2,8 +2,6 @@
 {
     "public_key": "-----BEGIN PUBLIC KEY-----
 MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEv9UjN2za1u/kkFiWtAroz+cOg0WuuR6Z
-E2hKjTqjXz2Vy0eKQ+AxbR0fI0KiqqB5dxTqINO18x74Ok9E35CB1A==
------END PUBLIC KEY-----
-"
+E2hKjTqjXz2Vy0eKQ+AxbR0fI0KiqqB5dxTqINO18x74Ok9E35CB1A==\n-----END PUBLIC KEY-----"
   }
 ]
