@@ -1,5 +1,6 @@
 [
-  {
-    "public_key": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEc+Umq1aGcRbDu6Tv7yoCgIF3yP9LVp8y\nmmLrGO7wv37a5bCb496OqM+gCs/mPOhRiiBmvXQ1F0hlXxLFdBsQlQ==\n-----END PUBLIC KEY-----\n"
-  }
+    {
+        "public_key": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEc+Umq1aGcRbDu6Tv7yoCgIF3yP9LVp8y\nmmLrGO7wv37a5bCb496OqM+gCs/mPOhRiiBmvXQ1F0hlXxLFdBsQlQ==\n-----END PUBLIC KEY-----\n",
+        "uuid": "6c4db2f56f16c182f1e9fc5bc0852a8f5d2438c0f4e1b49e06381a0b80bd61b6"
+    }
 ]
