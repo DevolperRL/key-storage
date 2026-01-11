@@ -1,8 +1,9 @@
 [
-  {
-    "public_key": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEyOMCz8noGBAwlqVDX3Il7/MKlZDpjnW7\nz0/dKqbMaOaKR7RyBSfDBIDBW17P88TiEkv4EKoNSW0bxVgOeqVP1g==\n-----END PUBLIC KEY-----\n"
-  },
-  {
-    "public_key": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEvi18yaDApx4JEvx0edlwrSN/3cGUyXaD\nZsdzDoOCt1JjaPzhvmrgVzXOlwYfHlcX/Er08hD2o7CmEoAmrFkqiA==\n-----END PUBLIC KEY-----\n"
-  }
+    {
+        "public_key": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEyOMCz8noGBAwlqVDX3Il7/MKlZDpjnW7\nz0/dKqbMaOaKR7RyBSfDBIDBW17P88TiEkv4EKoNSW0bxVgOeqVP1g==\n-----END PUBLIC KEY-----\n"
+    },
+    {
+        "public_key": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEvi18yaDApx4JEvx0edlwrSN/3cGUyXaD\nZsdzDoOCt1JjaPzhvmrgVzXOlwYfHlcX/Er08hD2o7CmEoAmrFkqiA==\n-----END PUBLIC KEY-----\n",
+        "uuid": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEWMk3h9QAjjOdk/jkfWIYFqAD7gYuN2fFc46A26gfKkJYtkk5ENudHHL8/1c2VRlEswXE3qrl2bX1yCeN0o6xgw=="
+    }
 ]
