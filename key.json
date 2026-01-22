@@ -1,5 +1,8 @@
 [
   {
     "public_key": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEihH0CvmW6SpPKPMPaAMMqD4hg6UBrbJI\n3DCp0TJtIXuLEpsD+8slPpuJ2YH39cR5cMNh6/NH7TJLMYWMIcE2Wg==\n-----END PUBLIC KEY-----\n"
+  },
+  {
+    "public_key": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAE0waJgJ5WwoNGwLBkopMObW3fQ0rZ+nvF\nBZhZJ61C8euyqHU/KqNE5cXvrcItwZ9faLZQgHktN3eSj4Q9fAcexw==\n-----END PUBLIC KEY-----\n"
   }
 ]
