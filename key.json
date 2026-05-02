@@ -1,5 +1,14 @@
 [
   {
     "public_key": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEEr+rncVK2qM3fdd1Jzamyo8XXuTjgJGz\ngxrptLROpgIN695rZ2bqWP0Qx6OQNP1ZacHFhL0lpUH3t2PMiEmGow==\n-----END PUBLIC KEY-----\n"
+  },
+  {
+    "customer_email": "",
+    "license_id": "BLZ-XVPM-UVMP-ZBLG",
+    "project_id": "INACTIVE_1777710142660",
+    "public_key": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAE9pcTDsveGIiIJcwz8g6NPdPYNWMWDSKT\n9q2lrRNk7viAtRl4YsSXsI9toBvLZjkjeoDftGuboztTGajU+9MNcg==\n-----END PUBLIC KEY-----\n",
+    "signature": "304602210088dcbd3aa55dbdcd2ca7ed7ceb1f02f823013527ad493ca2a6cddf77cef397b0022100f28a8b1c396a6afd6455d446cc1b7d9e6c99c13bd0bcfb17744a8639cc56b6e4",
+    "signature_timestamp": "2026-05-02 10:40:12",
+    "status": "active"
   }
 ]
