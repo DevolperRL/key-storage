@@ -10,5 +10,14 @@
     "signature": "304602210088dcbd3aa55dbdcd2ca7ed7ceb1f02f823013527ad493ca2a6cddf77cef397b0022100f28a8b1c396a6afd6455d446cc1b7d9e6c99c13bd0bcfb17744a8639cc56b6e4",
     "signature_timestamp": "2026-05-02 10:40:12",
     "status": "active"
+  },
+  {
+    "customer_email": "pilot.rl007@gmail.com",
+    "license_id": "BLZ-YHCB-CPJ2-67PZ",
+    "project_id": "BLIZ-885E-8A7D-121A",
+    "public_key": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEAbFh4+C/OKu5f/i61fDXPYQSVd5TOG4s\npiz8sKMhCRoXkHKxz+/X2drVM5+P6MjBtVxc+EJfua+gpjdB59wvrw==\n-----END PUBLIC KEY-----\n",
+    "signature": "304502206ad54ec1db42d4431b6c22883a28ca4250b2853dab818308e938d843531b1ed4022100f3447a4423ba4b079d45a1439faf43cf8aabcd36c20bb2a85a6e62d96c74b4d4",
+    "signature_timestamp": "2026-05-02 11:00:42",
+    "status": "active"
   }
 ]
